@@ -43,5 +43,28 @@
 <info> Segundo o Hipermito, Poseidon, o Imperador dos Mares, lutou contra Atena pela posse das terras árticas e acabou sendo aprisionado pela deusa logo após a Guerra Santa, ocorrida há milhares de anos. Os combates foram tão intensos que causaram um dilúvio na Terra e o desaparecimento de Atlântida, onde ficava o Templo terrestre de Poseidon.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] A SAGA DO TORNEIO GALÁCTICO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:11C4A7CD2DD356E2E0F4E40E194C3CD42B08A839</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/r6tMGjhFKFyOgGF95CnkBoOo6it.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O Arco da Guerra Galáctica é o primeiro Arco da série Os Cavaleiros do Zodíaco e o primeiro Arco da Saga do Santuário. Neste Arco são apresentados os Cavaleiros, os conceitos do Cosmo, os personagens principais, bem como a introdução da historia de Atena. Dez garotos retornam de sua jornada dos mais diversos lugares do mundo trazendo consigo as lendárias Armaduras dos Cavaleiros de Atena (Armaduras de Bronze). Deu-se início a maior batalha de toda a história do mundo – a Guerra Galáctica – para escolher, entre esses 10 garotos, o merecedor da mais poderosa das Armaduras, a Armadura de Ouro. Entretanto, com aparição de Fênix e seus Cavaleiros Negros, a verdadeira batalha pela posse da Armadura de Ouro só está começando.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A SAGA DOS CAVALEIROS DE PRATA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2C6C6E18ED106063B41CC5EFB2B71DBC92FCAA46</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bypuzrNJ4etc3JXlWN7UtXbyqZf.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Saint Seiya, conhecido nos países lusófonos como Os Cavaleiros do Zodíaco, é uma série japonesa de mangá, escrita e ilustrada por Masami Kurumada, publicada na revista Weekly Shonen Jump de 1986 a 1991 e adaptada para anime pela Toei Animation de 1986 a 1989. A história mostra cinco guerreiros místicos chamados de “Cavaleiros” (ou “Saints” no original) que lutam vestindo “Armaduras” ( ou “Cloths” ) sagradas baseadas nas diversas constelações que protegem cada um dos guerreiros. Os Cavaleiros têm como missão defender a reencarnação da deusa grega Atena em sua batalha contra outros deuses do Olimpo que pretendem dominar a Terra.</info>
+</item>
+
+
+
+
+
+
+
+
 
 
