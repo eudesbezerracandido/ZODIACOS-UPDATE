@@ -15,4 +15,4 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/zzawBZhpeYXsbkHekGjDA3GMi7k.jpg</thumbnail>
 <fanart>https://ia804703.us.archive.org/25/items/zodiacos_202303/athena-cc3b3pia.jpg</fanart>
 <info>Em uma casa do Santuário, sob o olhar dos Doze Templos, a Deusa Atena observa uma criança dormindo: Kouga. Mas é nesse momento que surge uma enorme escuridão, ocorre uma explosão. Devido a isso, um pilar rachado está a ponto de cair sobre Kouga, mas, por sorte, aparece o Cavaleiro de Ouro Seiya. Também aparece o malvado inimigo Marte (Mars) vestindo um manto... e assim começa a história.</info>
-</item>
+</item> 
