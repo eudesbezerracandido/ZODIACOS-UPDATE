@@ -23,7 +23,7 @@
 <thumbnail>https://ia904703.us.archive.org/25/items/zodiacos_202303/athena-cc3b3pia.jpg</thumbnail>
 <fanart>https://ia904703.us.archive.org/25/items/zodiacos_202303/athena-cc3b3pia.jpg</fanart>
 <info> A deusa Éris encarna na jovem Eiri e sequestra Saori, com o objetivo de roubar seus poderes usando o pomo dourado. Os Cavaleiros de Bronze vão até o santuário de Éris para resgatar a Saori, precisando enfrentar um grupo de cavaleiros traidores que agora são fantasmas a mando de Éris.</info>
-</item>
+</item> 
 
 <item>
 <title>[COLOR silver][B] SAGA DE ASGARD [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
