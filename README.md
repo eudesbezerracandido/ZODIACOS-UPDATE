@@ -2,7 +2,7 @@
 
 
 <item>
-<title>[COLOR silver][B] OS CAVALEIROS DO ZODIACOS - A ALMA DE OURO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B]  A ALMA DE OURO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B9178EA47878AD21AA76FEE96D393BA866D5DD8A</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/39qqUS2EDpiYGfkshiUZ69K61Uq.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
@@ -10,7 +10,7 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] CAVALEIROS DO ZODIACOS - OMEGA  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] OMEGA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5AD646D46073850F5A303F27E3D8610824943AF7</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/zzawBZhpeYXsbkHekGjDA3GMi7k.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
