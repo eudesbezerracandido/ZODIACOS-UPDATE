@@ -34,4 +34,14 @@
 <info> Hilda de Polaris é a representante do deus Odin (mitologia nórdica), na Terra, tendo como missão garantir a paz em Asgard. No entanto, após receber de Poseidon o Anel do Nibelungo, Hilda passa a seguir ordens do deus grego, declarando guerra a Atena. Estúdio: Toei Animation • Episódios: 26 • Duração: 24 min. Dos episódios: 74 ao 99.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] SEINTO SEIYA-POSEIDON  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8910BA2D52C44D3521C6E31C4EF9BB9FC32337FE$nome=PARTE 1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:09BF8DA43165990729F2A766916090135B3A42E1$nome=PARTE 2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lGuI2iBUowwfG0pjJi7rEviZ5xs.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Segundo o Hipermito, Poseidon, o Imperador dos Mares, lutou contra Atena pela posse das terras árticas e acabou sendo aprisionado pela deusa logo após a Guerra Santa, ocorrida há milhares de anos. Os combates foram tão intensos que causaram um dilúvio na Terra e o desaparecimento de Atlântida, onde ficava o Templo terrestre de Poseidon.</info>
+</item>
+
+
 
