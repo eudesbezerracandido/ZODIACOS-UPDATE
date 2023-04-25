@@ -59,6 +59,16 @@
 <info>Saint Seiya, conhecido nos países lusófonos como Os Cavaleiros do Zodíaco, é uma série japonesa de mangá, escrita e ilustrada por Masami Kurumada, publicada na revista Weekly Shonen Jump de 1986 a 1991 e adaptada para anime pela Toei Animation de 1986 a 1989. A história mostra cinco guerreiros místicos chamados de “Cavaleiros” (ou “Saints” no original) que lutam vestindo “Armaduras” ( ou “Cloths” ) sagradas baseadas nas diversas constelações que protegem cada um dos guerreiros. Os Cavaleiros têm como missão defender a reencarnação da deusa grega Atena em sua batalha contra outros deuses do Olimpo que pretendem dominar a Terra.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] CAVALEIROS DO ZODIACOS - COLECTION [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FD19B21B0736FAED3AB4D2A1CE8B3D5D91D16DB3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ifZ3mxQ4TyDv8EPrnrKPnCtyw6e.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Cinco incríveis guerreiros tem a missão de proteger Saori Kido, uma garota que é a própria reencarnação da deusa Atena, e lutar contra as terríveis forças do mal, em um ambiente cheio de mitologias. A série exibida na TV é uma adaptação do mangá de mesmo nome criado por Masami Kurumada.</info>
+</item>
+
+
+
 
 
 
