@@ -1,6 +1,20 @@
 # ZODIACOS-UPDATE
 
 
+
+
+
+
+
+
+<item>
+<title>[COLOR silver][B] SAINT SEIYA; OS CAVALEIROS DO ZODIACOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:87d618475eb739160da18366c2e2f6078ec5f342</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/r3JUGK7NYSXt9Ug8Jmh4izLYGq2.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Seiya, um jovem adolescente, é recrutado por Alman Kido para se tornar um lendário Cavaleiro de Bronze (青銅 聖 闘 士, Buronzu Seinto). A série segue com os Cavaleiros de Bronze e sua luta contra guerreiros prolíficos na busca de se tornarem guerreiros da Deusa Athena, enquanto Seiya ao mesmo tempo procura sua irmã desaparecida.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B]  A ALMA DE OURO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B9178EA47878AD21AA76FEE96D393BA866D5DD8A</link>
